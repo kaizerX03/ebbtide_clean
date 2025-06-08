@@ -1,0 +1,15 @@
+# Virtual Environment
+.venv/
+__pycache__/
+*.pyc
+
+# Large files
+*.pt
+*.pth
+*.so
+*.ncnn
+
+# Recording outputs
+*.avi
+*.mp4
+*.png
